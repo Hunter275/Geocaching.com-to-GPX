@@ -1,6 +1,6 @@
 # Geocaching.com to GPX
 
-Combines GeocacheToGPX with pycaching to automate the creation of GPX files from Geocaching.com URLS
+Combines GeocacheToGPX with pycaching to automate the creation of GPX files from Geocaching.com URLs
 
 **NOTICE:** This is against Geocaching.com's rules and should only be used at your own risk!
 
