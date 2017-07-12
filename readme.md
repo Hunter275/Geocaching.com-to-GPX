@@ -1,6 +1,6 @@
 # Geocaching.com to GPX
 ---
-*Requires* 
+**Requires** 
 
 [GeocacheToGPX](https://github.com/Hunter275/GeocacheToGPX)
 
